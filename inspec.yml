@@ -1,1 +1,3 @@
 name: PIA SSO ADDI
+supports:
+  - platform-family: redhat
