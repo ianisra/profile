@@ -6,3 +6,4 @@ copyright_email: wagoner-wonton0s@icloud.com
 license: Apache-2.0
 inspec_version: '>= 4.6.3'
 summary: PIA SSO de ADDI
+version: 1.0.0
