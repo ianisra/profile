@@ -1,3 +1,8 @@
 name: PIA SSO ADDI
-supports:
-  - platform-family: redhat
+title: Inspec for CentOs 7 PIA
+maintainer: Equipo PIA SSO ADDI
+copyright: Equipo PIA SSO ADDI
+copyright_email: wagoner-wonton0s@icloud.com
+license: Apache-2.0
+inspec_version: '>= 4.6.3'
+summary: PIA SSO de ADDI
